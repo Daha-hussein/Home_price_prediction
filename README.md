@@ -99,8 +99,4 @@ python3 C:/Users/HP/Downloads/home_price/client/server.py</code></pre>
   <li>Load your cloud URL in a browser, e.g., <a href="http://ec2-3-133-88-210.us-east-2.compute.amazonaws.com/">http://ec2-3-133-88-210.us-east-2.compute.amazonaws.com/</a>. You should now have a fully functional website running in a production cloud environment.</li>
 </ol>
 
-<h2>License</h2>
 
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
-<p>© All rights reserved 2000-2024, WinSCP.net</p>
